@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "formatters": {
+    "default": {
+      "format": "%(asctime)s %(levelname)s [%(correlation_id)s]: %(message)s"
+    }
+  },
+  "filters": {
+    "correlation_id": {
+      "()": "asgi_correlation_id.CorrelationIdFilter",
+      "default_value": "-"
+    }
+  },
+  "handlers": {
+    "file_handler": {
+      "class": "logging.handlers.RotatingFileHandler",
+      "level": "INFO",
+       "filters": ["correlation_id"],
+      "formatter": "default",
+      "filename": "logs/wisdom_im_bot.log",
+      "maxBytes": 52428800,
+      "backupCount": 20
+    }
+  },
+  "loggers": {
+    "wisdom-im-bot": {
+      "level": "INFO",
+      "handlers": ["file_handler"]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[概要]
+本文主要探讨了AI Agent的发展、应用前景和挑战，以及其在知识工作、企业应用和各领域案例中的实际应用。同时，也讨论了基于强化学习和基于语言模型的AI agent的发展和应用。
+
+[总结]
+1. AI Agent是具备主动思考和行动能力的智能体，能够自行感知环境、形成记忆、规划和决策行动，并与其他Agent合作实现任务。
+2. AI Agent的应用有助于降低软件生产成本、提高定制化能力，进入软件的“3D打印”时代。
+3. AI Agent的长期目标是使LLM能够胜任系统2的工作，为LLM搭建一套框架来进行深度思考和分析，从而做出更复杂和可靠的决策。
+4. AI Agent的发展还需要解决一些问题，如合作机制的设计、与环境的交互、个性化记忆和主动决策能力。
+5. AI Agent有望成为知识工作者的AI工作伙伴，为软件生产带来革命性的变化。
+6. AI agent可以根据个人的工作习惯进行定制化设计，设计自己的合作AI同事，满足个性化的需求。
+7. AI agent领域的发展前景广阔，有望在各个行业中发挥重要作用。
+8. AI agent的发展需要持续的技术进步和创新，同时也需要耐心等待其成熟和落地。
+
+[链接]
+http://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247504973&idx=1&sn=603596db2a31e1e53d71ac05d775cb7c&chksm=ce9b6bd3f9ece2c577720045239314840757fa578587f4a5adbf21e18a9dadd6bf1af3913b61&mpshare=1&scene=1&srcid=1013zjKKw0D0DzGq9maC4b0j&sharer_shareinfo=5d411401ba8c5b1dbca12a43650e5507&sharer_shareinfo_first=f173c74419eabd7721d915475a30dffb#rd
